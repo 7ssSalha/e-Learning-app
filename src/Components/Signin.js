@@ -13,7 +13,6 @@ class Signin extends Component {
             <input type="text" name="Email" id="Email_log" />
             <label htmlFor="Email_log">Email</label>
           </div>
-
           <div className="input-field">
             <i className="material-icons prefix">lock</i>
             <input type="Password" name="Password" id="Password_log" />
